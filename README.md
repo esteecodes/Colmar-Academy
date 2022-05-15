@@ -1,4 +1,4 @@
-<h1><a href="https://esteecodes.github.io/Modern-HTML-CSS-and-SASS-Brad-Udemy/7-EdgeLedger-Website-Flexbox/" target="_blank">Colmar Academy</a></h1>
+<h1><a href="https://esteecodes.github.io/Colmar-Academy/" target="_blank">Colmar Academy</a></h1>
 <p>This project is part of the</p>
 <h2>Build a Website with HTML, CSS and Github Pages</h2>
 <p>Skill Path by CodeCademy<br>
